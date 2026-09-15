@@ -1,1 +1,1 @@
-https://noble-luck-next-wellness.trycloudflare.com
+https://api.trycloudflare.com
